@@ -168,5 +168,5 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 
-Email: edayazilim@email.com
+Email: edayazilim@gmail.com
 
