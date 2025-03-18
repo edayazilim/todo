@@ -54,8 +54,8 @@ Bu proje, kullanıcıların görevler oluşturabileceği, görüntüleyebileceğ
 
 1. Repoyu klonlayın:
 ```
-git clone https://github.com/kullaniciadi/is-yonetim-sistemi.git
-cd is-yonetim-sistemi/task-manager
+git clone https://github.com/edayazilim/todo.git
+cd todo/task-manager
 ```
 
 2. Bağımlılıkları yükleyin:

@@ -44,8 +44,8 @@ Bu proje, İş Yönetim Sistemi API'si için Vue.js ile geliştirilmiş modern b
 
 1. Repoyu klonlayın (backend reposunu zaten klonladıysanız bu adımı atlayabilirsiniz):
 ```
-git clone https://github.com/kullaniciadi/is-yonetim-sistemi.git
-cd is-yonetim-sistemi/frontend
+git clone https://github.com/edayazilim/todo.git
+cd todo/frontend
 ```
 
 2. Bağımlılıkları yükleyin:
