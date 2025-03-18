@@ -54,8 +54,8 @@ Proje iki ana bileşenden oluşur:
 
 1. Repoyu klonlayın:
 ```
-git clone https://github.com/kullaniciadi/is-yonetim-sistemi.git
-cd is-yonetim-sistemi
+git clone https://github.com/edayazilim/todo.git
+cd todo
 ```
 
 2. Backend bağımlılıklarını yükleyin:
